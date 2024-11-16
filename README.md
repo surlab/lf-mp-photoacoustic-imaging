@@ -1,5 +1,5 @@
 # lf-mp-photoacoustic-imaging
-## Repository for the code that was used to process and analyze data collected for "Multi-photon, Label-free photoacoustic and optical imaging of NADH in neurons", bioRxiv, 2024
+### Repository for the code that was used to process and analyze data collected for "Multi-photon, Label-free photoacoustic and optical imaging of NADH in neurons", bioRxiv, 2024
 
 Multi-photon, Label-free photoacoustic and optical imaging of NADH in neurons
 Tatsuya Osaki1, 2†, W. David Lee3†, Xiang Zhang3, 5†, Rebecca E. Zubajlo3†, Mercedes Balcells5, Elazer Edelman5, Brian W. Anthony3, 5*, Peter T. C. So3, 4*, and Mriganka Sur1*
