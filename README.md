@@ -9,4 +9,4 @@ Tatsuya Osaki1, 2†, W. David Lee3†, Xiang Zhang3, 5†, Rebecca E. Zubajlo3�
 4. Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, 02139, United States
 5. Institute of Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA, 02139, United States
 
-Tatsuya Osaki, W. David Lee, Xiang Zhang, Rebecca E. Zubajlo contributed to the postprocessing of photoacoustic imaigng and the simulation of photoacousitc generatio
+Tatsuya Osaki, W. David Lee, Xiang Zhang, Rebecca E. Zubajlo contributed to the postprocessing of photoacoustic imaigng and the simulation of photoacousitc generation
