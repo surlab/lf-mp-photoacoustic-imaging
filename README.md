@@ -1,14 +1,10 @@
-# lf-mp-photoacoustic-imaging
+# Matlab code for Osaki et al. Light: Science & Applications (2025)
 
 Repository for the code that was used to process and analyze data collected for "Multi-photon, Label-free photoacoustic and optical imaging of NADH in neurons", 
 Osaki et al. Light: Science & Applications (2025), https://doi.org/10.1038/s41377-025-01895-x
 ---
 
 #### Photoacoustic signal processing
-
-The GitHub page mentioned in the paper () would explain the types of analysis used, specifically focusing on the **MATLAB codes for image analysis and k-wave simulation**.
-
-Based on the information in the paper, the GitHub page would likely detail:
 
 *   **Image Analysis**:
     *   **Signal Processing for Photoacoustic Data**: This includes methods for processing acoustic signals, such as performing **Continuous Wavelet Transform (CWT) and inverted CWT** using MATLAB's "Wavelet Toolbox" to decompose signals into distinct frequency bands. It also covers real-time signal conditioning and pixel value calculation for image generation, including averaging multiple photoacoustic pulses for a grey value.
@@ -17,9 +13,6 @@ Based on the information in the paper, the GitHub page would likely detail:
 
 *   **K-Wave Simulation**:
     *   The GitHub page would provide **MATLAB codes for K-Wave simulations**, which were used to model various aspects of the photoacoustic system. This includes predicting the **acoustic peak frequency** based on the heated focal volume, simulating the **acoustic pulse pressure field**, and analyzing the **effective field of view** of the acoustic sensor.
-
-
-#### K-wave simulation
 
 ---
 
