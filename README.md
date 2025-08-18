@@ -1,4 +1,4 @@
-# Matlab code for Osaki et al. Light: Science & Applications (2025)
+# Matlab code for Osaki et al. Light: Science & Applications 14, 2264 (2025)
 
 Repository for the code that was used to process and analyze data collected for "Multi-photon, Label-free photoacoustic and optical imaging of NADH in neurons", 
 Osaki et al. Light: Science & Applications (2025), https://doi.org/10.1038/s41377-025-01895-x
